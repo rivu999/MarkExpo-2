@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="BACK">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#0D1511"/>
+          <stop offset="1" stop-color="#183523"/>
+        </linearGradient>
+        <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+      </defs>
+      <rect width="1200" height="760" fill="url(#g)"/>
+      <circle cx="1080" cy="100" r="180" fill="#63E63D" opacity=".10" filter="url(#blur)"/>
+      <circle cx="120" cy="620" r="180" fill="#63E63D" opacity=".08" filter="url(#blur)"/>
+      
+        <g>
+          <circle cx="700" cy="135" r="46" fill="#D6B39A"/>
+          <path d="M640 210 Q700 175 760 210 L820 540 Q700 620 580 540 Z" fill="#18261E"/>
+          <path d="M626 240 Q560 320 585 500" fill="none" stroke="#D6B39A" stroke-width="44" stroke-linecap="round"/>
+          <circle cx="700" cy="390" r="48" fill="#63E63D" opacity=".82"/>
+        </g>
+        
+      <text x="70" y="625" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#FFFFFF" letter-spacing="1">BACK</text>
+      <text x="70" y="665" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#AFC3B4">Application-area placeholder</text>
+      <rect x="70" y="705" width="240" height="8" rx="4" fill="#63E63D"/>
+    </svg>

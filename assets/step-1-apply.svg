@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="STEP 01 — APPLY">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#F6F8F5"/>
+          <stop offset="1" stop-color="#DCE8DE"/>
+        </linearGradient>
+        <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+      </defs>
+      <rect width="1200" height="760" fill="url(#g)"/>
+      <circle cx="1080" cy="100" r="180" fill="#168A3A" opacity=".10" filter="url(#blur)"/>
+      <circle cx="120" cy="620" r="180" fill="#168A3A" opacity=".08" filter="url(#blur)"/>
+      
+        <g>
+          <circle cx="705" cy="195" r="48" fill="#D6B39A"/>
+          <path d="M650 265 Q706 225 760 265 L810 470 L600 470 Z" fill="#15231A"/>
+          <path d="M635 295 Q595 335 565 395" fill="none" stroke="#D6B39A" stroke-width="42" stroke-linecap="round"/>
+          <circle cx="620" cy="300" r="31" fill="#63E63D" opacity=".9"/>
+          <path d="M762 295 Q812 350 825 440" fill="none" stroke="#D6B39A" stroke-width="38" stroke-linecap="round"/>
+        </g>
+        
+      <text x="70" y="625" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#0D1511" letter-spacing="1">STEP 01 — APPLY</text>
+      <text x="70" y="665" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#5C6C61">Professional application image placeholder</text>
+      <rect x="70" y="705" width="240" height="8" rx="4" fill="#168A3A"/>
+    </svg>

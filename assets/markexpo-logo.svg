@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 86">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M28 12h23l11 24 11-24h23L71 74H48L28 12Z" fill="#168A3A"/>
+    <circle cx="126" cy="43" r="30" fill="#63E63D"/>
+    <path d="M116 43h20M126 33v20" stroke="#0D1511" stroke-width="7" stroke-linecap="round"/>
+    <text x="168" y="53" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#0D1511">MarkExpo</text>
+  </g>
+</svg>
